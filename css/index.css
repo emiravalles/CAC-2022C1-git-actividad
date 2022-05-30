@@ -1,0 +1,15 @@
+.ingreso .form-group {
+    margin: 10px;
+}
+
+.ingreso .form-group input {
+    width: 180px;
+}
+
+.ingreso .form-group input:focus::placeholder {
+    color: transparent;
+}
+
+.btn_enter {
+    margin-left: 10px;
+}
